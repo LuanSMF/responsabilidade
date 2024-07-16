@@ -1,2 +1,2 @@
 # responsabilidade
- Estilo de fonte
+ Com grandes poderes vem grandes responsabilidades
